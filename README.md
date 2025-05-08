@@ -17,7 +17,7 @@ Uma aplicação Spring Boot que gera QR Code's e os armazena no AWS S3. Esse pro
 - <a href="https://www.docker.com">Docker</a>
 - <p>CLI do AWS configurada com as credenciais apropriadas</p>
 
-### Environment Variables
+### Variáveis de ambiente
 
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 
