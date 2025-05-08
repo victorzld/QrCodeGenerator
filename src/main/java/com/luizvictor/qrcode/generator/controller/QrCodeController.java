@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/qrocode")
+@RequestMapping("/qrcode")
 public class QrCodeController {
 
     private final QrCodeGeneratorService qrCodeGeneratorService;
