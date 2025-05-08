@@ -64,7 +64,7 @@ docker run --env-file .env -p 8080:8080 qrcode-generator:X.X
 
 ## 🧱 Diagrama da Arquitetura
 
-<imagem depois
+![Image](https://github.com/user-attachments/assets/4aad9176-e020-4e48-afc5-48d28f1ccaa4)
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
